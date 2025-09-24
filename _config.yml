@@ -213,6 +213,8 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  - lqip.py
+  - py-env
 
 jekyll-archives:
   enabled: [categories, tags]
